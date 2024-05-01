@@ -13,7 +13,7 @@ Usage:
 
 Execute FirstTimeDatabase.sql by
 
-`mysql> source "pathtorepository"/FirstTimeDatabase.sql`
+`mysql> source "/path with spaces/to/repository/FirstTimeDatabase.sql";`
 
 For Installing needed modules:
 
