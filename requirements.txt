@@ -1,0 +1,6 @@
+Pillow
+matplotlib
+datetime
+chemicals
+rdkit
+mysql-connector-python
